@@ -24,6 +24,9 @@ Contains the generated sensor measurements.
 `warning_log.txt`
 Stores WARNING and STOP events with timestamps.
 
+`terminal_output.png`  
+Shows an example of the program output in the terminal.
+
 ## How to Run
 
 1. Run `data_generator.py` to generate simulated sensor data.
