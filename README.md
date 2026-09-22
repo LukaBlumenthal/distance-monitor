@@ -69,7 +69,7 @@ The project was developed incrementally through several learning stages.
 ### V3
 
 * Generate simulated distance sensor values automatically
-* Simulate a robot moving toward an obstacle
+* Simulate decreasing distance values as a robot approaches an obstacle
 * Prevent negative distance values
 
 ### V4
@@ -87,9 +87,9 @@ The project was developed incrementally through several learning stages.
 
 ### V7
 
-* Refactored the program into functions
-* Added constants for configurable thresholds
-* Improved code readability and structure
+* Refactored the program into separate functions
+* Added configurable constants for distance thresholds and delay
+* Improved error handling and code readability
 
 ## What I Learned
 
