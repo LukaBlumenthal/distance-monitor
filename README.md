@@ -42,7 +42,7 @@ Distance: 0 cm | Status: STOP
 ```
 ## Screenshot
 
-![Distance Monitor terminal output](images/terminal_output.png)
+![Distance Monitor terminal output](terminal_output.png)
 
 Invalid sensor values are ignored without stopping the program.
 
