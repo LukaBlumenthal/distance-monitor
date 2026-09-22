@@ -1,11 +1,11 @@
-2026-09-21 12:49:59.230374 | Distance: 42 cm | Status: WARNING
-2026-09-21 12:50:00.231052 | Distance: 40 cm | Status: WARNING
-2026-09-21 12:50:01.231952 | Distance: 32 cm | Status: WARNING
-2026-09-21 12:50:02.232463 | Distance: 30 cm | Status: WARNING
-2026-09-21 12:50:03.233156 | Distance: 24 cm | Status: WARNING
-2026-09-21 12:50:04.233657 | Distance: 20 cm | Status: WARNING
-2026-09-21 12:50:05.234441 | Distance: 16 cm | Status: STOP
-2026-09-21 12:50:06.234943 | Distance: 11 cm | Status: STOP
-2026-09-21 12:50:07.235577 | Distance: 6 cm | Status: STOP
-2026-09-21 12:50:08.236373 | Distance: 3 cm | Status: STOP
-2026-09-21 12:50:09.243583 | Distance: 0 cm | Status: STOP
+
+2026-09-22 14:27:12 | Distance: 45 cm | Status: WARNING
+2026-09-22 14:27:13 | Distance: 41 cm | Status: WARNING
+2026-09-22 14:27:14 | Distance: 36 cm | Status: WARNING
+2026-09-22 14:27:15 | Distance: 31 cm | Status: WARNING
+2026-09-22 14:27:16 | Distance: 25 cm | Status: WARNING
+2026-09-22 14:27:17 | Distance: 20 cm | Status: WARNING
+2026-09-22 14:27:18 | Distance: 13 cm | Status: STOP
+2026-09-22 14:27:19 | Distance: 9 cm | Status: STOP
+2026-09-22 14:27:20 | Distance: 4 cm | Status: STOP
+2026-09-22 14:27:21 | Distance: 0 cm | Status: STOP

@@ -1,20 +1,30 @@
 import csv
 import random
-import time
 
-distance = 100
 
-with open("sensor_data.csv", "w", newline="") as file:
-    writer = csv.writer(file)
+START_DISTANCE_CM = 100
+MIN_STEP_CM = 2
+MAX_STEP_CM = 8
 
-    writer.writerow(["distance"])
-    file.flush()
 
-    while distance > 0:
-        distance = distance - random.randint(2, 8)
+def generate_sensor_data():
+    distance = START_DISTANCE_CM
 
-        if distance <= 0:
-            distance = 0
+    with open("sensor_data.csv", "w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
 
-        writer.writerow([distance])
-        file.flush()
+        writer.writerow(["distance"])
+
+        while distance > 0:
+            distance = max(
+                0,
+                distance - random.randint(MIN_STEP_CM, MAX_STEP_CM)
+            )
+
+            writer.writerow([distance])
+
+    print("Sensor data generated successfully.")
+
+
+if __name__ == "__main__":
+    generate_sensor_data()
