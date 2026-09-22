@@ -47,9 +47,9 @@ Invalid sensor values are ignored without stopping the program.
 Invalid sensor value: 5t
 ```
 
-## Development
+## Development Progress
 
-The project was developed step by step while learning Python and Git.
+The project was developed incrementally through several learning stages.
 
 ### V1
 
