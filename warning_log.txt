@@ -9,3 +9,13 @@
 2026-09-22 14:27:19 | Distance: 9 cm | Status: STOP
 2026-09-22 14:27:20 | Distance: 4 cm | Status: STOP
 2026-09-22 14:27:21 | Distance: 0 cm | Status: STOP
+2026-09-22 16:00:21 | Distance: 45 cm | Status: WARNING
+2026-09-22 16:00:22 | Distance: 41 cm | Status: WARNING
+2026-09-22 16:00:23 | Distance: 36 cm | Status: WARNING
+2026-09-22 16:00:24 | Distance: 31 cm | Status: WARNING
+2026-09-22 16:00:25 | Distance: 25 cm | Status: WARNING
+2026-09-22 16:00:26 | Distance: 20 cm | Status: WARNING
+2026-09-22 16:00:27 | Distance: 13 cm | Status: STOP
+2026-09-22 16:00:28 | Distance: 9 cm | Status: STOP
+2026-09-22 16:00:29 | Distance: 4 cm | Status: STOP
+2026-09-22 16:00:30 | Distance: 0 cm | Status: STOP
